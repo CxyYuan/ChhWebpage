@@ -7,3 +7,6 @@
 
 ### 3、隐私政策
 * 地址 https://ccalary.github.io/MCWebsite/
+
+### 4、技术支持
+* 地址 https://blog.csdn.net/C_calary/article/details/81395977
