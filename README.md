@@ -7,3 +7,6 @@
 
 ### 3、隐私政策
 * 地址 https://cxyblog.com.cn/ChhWebpage/privacy_statement.html
+
+### 4.注销协议
+* 地址 https://cxyblog.com.cn/ChhWebpage/logginoff_protocol.html
